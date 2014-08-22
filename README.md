@@ -2,7 +2,6 @@ Read Me Developing Data Products Course Project
 ===============================================
 
 Script: server.R and ui.R was compiled and tested on a PC using R Version 3.1.1.
-Authored by Sarah Sayed
 
 The script above generate a shiny app for the course Developing Data Projects.
 The resulting shiny application can be fould online at http://saysarah.shinyapps.io/DataProducts/
