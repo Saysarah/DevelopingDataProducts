@@ -17,3 +17,5 @@ This application uses the diamonds dataset in R to generate plots of selected va
 4. Finally the user may input a sample size in the numeric box field (numeric value). The sample number corresponds to the number of rows selected from the database. The plot will be modified to only include points corresponding to the inputted sample size. The default value for this field is 53940, (the total sample size in the database)
 
 
+Reference: http://shiny.rstudio.com/gallery/ 
+- App was build following the sample app
